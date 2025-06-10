@@ -170,4 +170,3 @@ dependencies {
   implementation project(':react-native-onesignal')
  implementation project(':react-native-razorpay')
 }
-apply plugin: 'com.google.gms.google-services'
